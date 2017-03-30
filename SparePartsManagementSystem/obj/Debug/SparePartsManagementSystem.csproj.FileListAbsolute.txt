@@ -1,0 +1,10 @@
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\bin\Debug\SparePartsManagementSystem.exe
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\bin\Debug\SparePartsManagementSystem.pdb
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.frmAtePinCard.resources
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.Properties.Resources.resources
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.csproj.GenerateResource.Cache
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.exe
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.pdb
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\bin\Debug\System.Data.SQLite.dll
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\bin\Debug\System.Data.SQLite.pdb
+D:\Edward\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.frmLogin.resources
