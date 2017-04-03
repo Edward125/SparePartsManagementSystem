@@ -13,7 +13,11 @@ namespace SparePartsManagementSystem
 
         public static string AppFolder = Application.StartupPath + @"\SpareParts";
         public static string AppDB = AppFolder + @"\SpareParts.db";
-        public static string dbConnectionString = "Data Source=" + @"\" + @AppDB;
+        public static string dbConnectionStringNoPassword = "Data Source=" + @"\" + @AppDB;
+        public static string dbConnectionString = "Data Source=" + @"\" + @AppDB + ";password=" + @DBPassword;
+        public static string DBPassword = "kd!@#)";
+
+
 
 
         #endregion

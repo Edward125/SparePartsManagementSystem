@@ -14,7 +14,7 @@ namespace SparePartsManagementSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAtePinCard());
+            Application.Run(new frmLogin());
         }
     }
 }
