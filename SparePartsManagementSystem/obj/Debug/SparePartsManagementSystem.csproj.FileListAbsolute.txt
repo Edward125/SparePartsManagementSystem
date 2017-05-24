@@ -14,7 +14,7 @@ Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\bin\Debug\SparePartsManagementSystem.pdb
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\bin\Debug\System.Data.SQLite.dll
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\bin\Debug\System.Data.SQLite.pdb
-Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.frmAtePinCard.resources
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.frmLogin.resources
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.Properties.Resources.resources
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.csproj.GenerateResource.Cache
+Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.frmMain.resources

@@ -38,8 +38,8 @@ namespace SparePartsManagementSystem
         /// </summary>
         private void checkFolder()
         {
-            if (!Directory.Exists(Global.AppFolder))
-                Directory.CreateDirectory(Global.AppFolder);
+            if (!Directory.Exists(p.AppFolder))
+                Directory.CreateDirectory(p.AppFolder);
         }
 
 
@@ -50,7 +50,7 @@ namespace SparePartsManagementSystem
         private bool checkDB()
         {
 
-            if (!File.Exists(Global.AppDB))
+            if (!File.Exists(p.AppLocalDB))
             {
                 if (!createDB())
                     return false;
@@ -67,11 +67,11 @@ namespace SparePartsManagementSystem
 
             try
             {
-                MessageBox.Show(Global.dbConnectionStringNoPassword);
+                MessageBox.Show(p.localDbConnectionString);
                // SQLiteConnection.CreateFile(Global.AppDB);
-                SQLiteConnection conn = new SQLiteConnection(Global.dbConnectionStringNoPassword);
+                SQLiteConnection conn = new SQLiteConnection(p.localDbConnectionString);
                 conn.Open();
-                conn.ChangePassword(Global.DBPassword);
+                //conn.ChangePassword(p.DBPassword);
                 return true;
 
             }
