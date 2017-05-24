@@ -18,3 +18,4 @@ Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.Properties.Resources.resources
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.csproj.GenerateResource.Cache
 Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\obj\Debug\SparePartsManagementSystem.frmMain.resources
+Z:\Users\Edward\EdwardCode\SparePartsManagementSystem\SparePartsManagementSystem\bin\Debug\IrisSkin2.dll

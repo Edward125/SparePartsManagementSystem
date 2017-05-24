@@ -14,10 +14,7 @@ namespace SparePartsManagementSystem
         public static string AppFolder = Application.StartupPath + @"\SpareParts";
         public static string AppLocalDB = AppFolder + @"\SpareParts.db";
         public static string localDbConnectionString = "Data Source="  + AppLocalDB;
-
-
-
-
+        public static string SkinFolder = AppFolder + @"\Skin";
 
         #endregion
 

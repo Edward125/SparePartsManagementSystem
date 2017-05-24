@@ -14,7 +14,17 @@ namespace SparePartsManagementSystem
 
         public DateTime CreateDateTime { set; get; }
 
+        public readonly string CardName;
 
+        private PinCard ()
+            :this("Default Name")
+        {
+        }
+
+        public PinCard(string newName)
+        {
+            CardName  = newName;
+        }
 
 
        public  enum ATEPinCardType
